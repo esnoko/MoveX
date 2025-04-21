@@ -2,12 +2,12 @@ import { Text } from 'react-native'
 import React from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context'
 
-const welcome = () => {
+const OnBoarding = () => {
   return (
     <SafeAreaView>
-        <Text>Welcome</Text>
+        <Text>OnBoarding</Text>
     </SafeAreaView>
   )
 }
 
-export default welcome
+export default OnBoarding
