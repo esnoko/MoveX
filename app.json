@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Homifi",
-    "slug": "homifi",
+    "name": "MoveX",
+    "slug": "MoveX",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "moveX",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
