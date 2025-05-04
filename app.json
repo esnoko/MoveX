@@ -4,7 +4,7 @@
     "slug": "MoveX",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/movex.png",
     "scheme": "movex",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
