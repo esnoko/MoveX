@@ -10,7 +10,8 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-bold text-lg my-10">Welcome to the MoveX!</Text>
+      <Text className="font-bold my-10 font-Jakarta text-3xl">Welcome to the MoveX!</Text>
+      <Link href="/sign-in">Sign In</Link>
       <Link href="/index">Home</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/properties/1">Property</Link>
